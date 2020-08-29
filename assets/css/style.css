@@ -36,6 +36,7 @@ header nav ul li a {
     font-weight: lighter;
     font-size: 22px;
 }
+/* apply styles to <footer> */
 footer {
     background: #fce138;
     width: 100%;
@@ -146,7 +147,7 @@ margin: 0;
 .primary-border {
     border-color: #fce138;
 }
-.secondary-boarder {
+.secondary-border {
     border-color: #39a6b2;
 }
 .trainers {
@@ -220,5 +221,14 @@ margin: 0;
 }
 .contact-info a {
     color: #fce138;
+}
+.page-title {
+    color: #fce138;
+    display: inline-block;
+    border-bottom: 4px solid #fce138;
+    padding: 0 80px 15px 80px;
+    font-weight: normal;
+    font-size: 42px;
+    font-style: italic;
 }
 /* Hero Style End */
